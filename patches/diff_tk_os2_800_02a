@@ -1,6 +1,7 @@
 This diff is between a "working" version of Tk800.05 and the distribution.
 
-This is the ONLY patch which is needed to make Tk800.05 work.
+This is the ONLY patch which is needed to make Tk800.05 work.  It is not
+needed with Tk800.11 any more.
 
 New file fix_4_os2.pl is included.  
 

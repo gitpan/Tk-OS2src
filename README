@@ -35,3 +35,21 @@ CHANGES:
 	coords. of balloons).  
 	(Only residual support of new features of Tk800.)
 	One needs to manually disable build of InputO.
+
+1.03:	Make addres.cmd pick up a correct DLL (names differ now for different 
+	perls.)
+	Do not show switch-entry for withdrawn-from-the-start windows.
+	Let PM walk new windows.
+	Make transient windows have close buttons.
+	Root coordinates calculated OK now (menus posted in a correct place).
+	Menu accelerators work.
+	Fileevents work again.
+	"Real" menubars are height-resized, and post menus in a right
+	position.
+  Bugs:
+	  menus can work even if one releases the button before choosing 
+		the menu item - just put ! in Menubutton.pm:271.)
+	  but with this basic_demo shows problems with popdown selection boxes.
+	  Even without this a combobox is posted below the window.
+	  "Real" menubars post menus with bad sensitivity, like comboboxes.
+	  $Foo->Icon() hangs
