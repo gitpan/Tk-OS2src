@@ -1,0 +1,31 @@
+The only target of this distribution is to deliver the additional files
+needed for non-X Tk on OS/2 via CPAN.pm.
+
+Note that tkOS2GC.c is not included in Illya Vaes's tk-os2 distribution 
+any more.
+
+The Illya's port includes also files
+
+default.h		- modified patch
+tkCanvPs.c		- included as patch
+tkImgPhoto.c		- not needed
+tkMain.c		- not needed
+tkOption.c
+tkPort.h		- not needed
+tkSend.c		- modified patch
+tkWindow.c		- modified patch
+
+I do not know what is the tkOption.c fix for, the rest is handled by patching.
+
+Original TCL/TK sources are at
+
+  ftp://ftp.neosoft.com/pub/tcl/sorted/distrib/tkos2-4.1s.tar.gz (source)
+  ftp://ftp.neosoft.com/pub/tcl/sorted/distrib/tkos2-4.1x.tar.gz (exes)
+  ftp://hobbes.nmsu.edu/pub/incoming/tk41os2s.zip (source)
+  ftp://hobbes.nmsu.edu/pub/incoming/tk41os2x.zip (exes)
+
+(should be moved to 
+
+  ftp://hobbes.nmsu.edu/pub/os2/dev/tcl/ 
+
+shortly)

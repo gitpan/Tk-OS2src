@@ -1,0 +1,10 @@
+MANIFEST
+Makefile.PL
+README
+Tk/OS2src.pm
+diff_font
+diff_keys
+diff_tk_fileevent_423_0
+patch_ptk_generic
+perltk_os2_common.zip
+perltk_os2_pm.zip
