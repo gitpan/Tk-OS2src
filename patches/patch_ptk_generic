@@ -1,3 +1,6 @@
+This is an older variant of patch to Tk distribution.  Most of it (all?)
+is included into the newer distribution.
+
 diff -pu ./pTk/mTk/generic/default.h H:\get\illya.vaes.beta5\os2/default.h
 --- ./pTk/mTk/generic/default.h	Fri Feb  9 08:14:30 1996
 +++ illya.vaes.beta5/os2/default.h	Thu Sep 11 22:38:44 1997

@@ -29,3 +29,9 @@ Original TCL/TK sources are at
   ftp://hobbes.nmsu.edu/pub/os2/dev/tcl/ 
 
 shortly)
+
+CHANGES:
+1.02:	Started the Tk800 port (a lot of rough edges with menubars, menus,
+	coords. of balloons).  
+	(Only residual support of new features of Tk800.)
+	One needs to manually disable build of InputO.

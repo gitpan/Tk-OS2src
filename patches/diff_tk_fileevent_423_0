@@ -1,3 +1,6 @@
+This patch is already applied to files in Tk-OS2 distribution!
+
+
 diff -pru Tk402.003/basic_demo Tk402.003.db/basic_demo
 --- Tk402.003/basic_demo	Sat Feb  7 01:18:42 1998
 +++ Tk402.003.db/basic_demo	Thu Feb 26 02:09:58 1998

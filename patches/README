@@ -1,0 +1,5 @@
+Apply ONLY diff_tk_os2_800_02a to Tk800.05!
+
+Patch with 
+	gnupatch -p1 < ...../..../diff_tk_os2_800_02a
+in directory Tk800.05.

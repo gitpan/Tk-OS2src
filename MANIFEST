@@ -2,9 +2,12 @@ MANIFEST
 Makefile.PL
 README
 Tk/OS2src.pm
-diff_font
-diff_keys
-diff_tk_fileevent_423_0
-patch_ptk_generic
+patches/README
+patches/diff_font
+patches/diff_keys
+patches/diff_tk_fileevent_423_0
+patches/diff_tk_os2_800_02a
+patches/diff_tkos2_800_05a
+patches/patch_ptk_generic
 perltk_os2_common.zip
 perltk_os2_pm.zip

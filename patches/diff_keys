@@ -1,3 +1,6 @@
+This patch is already applied to files in Tk-OS2 distribution!
+
+
 --- tkOS2X.c.prekey	Tue Dec 23 15:29:28 1997
 +++ tkOS2X.c	Sat Feb  7 15:05:42 1998
 @@ -706,6 +706,30 @@ TkOS2ChildProc(hwnd, message, param1, pa

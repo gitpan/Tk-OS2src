@@ -1,3 +1,6 @@
+This patch is already applied to files in Tk-OS2 distribution!
+
+
 --- tkOS2Font.c~.orig	Tue Feb  3 00:54:48 1998
 +++ tkOS2Font.c	Tue Feb  3 23:18:46 1998
 @@ -31,7 +31,14 @@ static char *lastname;

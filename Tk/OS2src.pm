@@ -1,5 +1,5 @@
 package Tk::OS2src;
-$VERSION = 1.01;
+$VERSION = 1.02;
 1;
 
 =head1 NAME
